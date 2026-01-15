@@ -17,7 +17,7 @@ A powerful tool that automatically generates Anki flashcards from Japanese text,
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/naiyou.git
+git clone https://github.com/khaled-gad/naiyou.git
 cd naiyou
 ```
 
