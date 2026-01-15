@@ -22,14 +22,8 @@ Yes! Naiyou is open-source software released under the MIT License. You can use 
 - Internet connection (for dictionary lookups)
 
 ### How do I install Naiyou?
-You can install Naiyou using pip:
 ```bash
-pip install naiyou
-```
-
-Or install from source:
-```bash
-git clone https://github.com/yourusername/naiyou.git
+git clone https://github.com/khaled-gad/naiyou
 cd naiyou
 pip install -e .
 ```
